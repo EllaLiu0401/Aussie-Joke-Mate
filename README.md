@@ -2,11 +2,6 @@
 
 > Learn Australian English through humour, one joke at a time.
 
-## 🔗 Preview
-
-<!-- Update this link with your actual deployed URL -->
-[**Open Live Preview**](#)
-
 ## 📖 About
 
 Aussie Joke Mate is a React-based widget that uses the **Google Gemini API** to generate Australian English jokes. It is designed specifically for non-native speakers (like IELTS students) to understand cultural nuances, slang, and advanced vocabulary in a relaxed, fun way.
